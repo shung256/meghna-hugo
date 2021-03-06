@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Test the new one
-  content: This is a test
+  content: This is another test
   button:
     enable: true
     label: Explore Us
